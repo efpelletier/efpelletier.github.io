@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "WMLAD"
 title_separator          : "-"
-name                     : &name "The Washington Merged Longitudinal Administrative Data"
-description              : &description "personal description"
+name                     : &name "Elizabeth Pelletier"
+description              : &description "PhD Student, Evans School of Public Policy and Governance, University of Washington"
 url                      : https://efpelletier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "efpelletier/efpelletier.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "WMLAD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "University of Washington"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "PhD Student, Evans School of Public Policy and Governance"
+  location         : "Seattle, WA"
+  employer         : "University of Washington"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "efpelletier"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
