@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S., Public Policy and Management, University of Washington (2020)
+* Fulbright Study/Research Grantee, University of Toronto (2015-16)
+* BA, Public Policy and Film & Media Studies, College of William & Mary (2014) 
+
 
 Work experience
 ======
