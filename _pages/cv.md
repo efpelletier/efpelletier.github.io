@@ -11,15 +11,15 @@ redirect_from:
 
 ### Education
 
-__2018-Present__ | Ph.D., Public Policy and Management, University of Washington
+__2018-Present__ &#124; Ph.D., Public Policy and Management, University of Washington
 
 * Certificate in Demographic Methods
 
-__2020__ | M.S., Public Policy and Management, University of Washington
+__2020__ &#124; M.S., Public Policy and Management, University of Washington
 
-__2015-16__ | Fulbright Study/Research Grantee, University of Toronto
+__2015-16__ &#124; Fulbright Study/Research Grantee, University of Toronto
 
-__2014__ | B.A., Public Policy and Film & Media Studies, College of William & Mary
+__2014__ &#124; B.A., Public Policy and Film & Media Studies, College of William & Mary
 
 
 
