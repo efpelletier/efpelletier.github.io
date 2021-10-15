@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+### EDUCATION
 
 __2018-Present__ &#124; Ph.D., Public Policy and Management, University of Washington
 
@@ -23,7 +23,7 @@ __2014__ &#124; B.A., Public Policy and Film & Media Studies, College of William
 
 
 
-### Research & Teaching Experience
+### RESEARCH & TEACHING EXPERIENCE
 
 * 2021: Research Assistant to Dr. Hilary Wething, Pennsylvania State University School of Public Policy
 * 2020-2021: Research Assistant, Washington Paid Family and Medical Leave Evaluation (PI: Dr. Heather Hill)
@@ -35,7 +35,7 @@ __2014__ &#124; B.A., Public Policy and Film & Media Studies, College of William
 * 2013: Teaching Assistant, Quantitative Methods (Dept. of Government), College of William & Mary
 * 2012-2015: Research Assistant to Dr. Paul Manna, College of William & Mary Department of Government
 
-### Honors, Grants, & Fellowships
+### HONORS & GRANTS
 
 * Washington State Labor Research Grant, Harry Bridges Center for Labor Studies, University of Washington (2021)
 * Hubert M. Blalock Fellowship, Center for Statistics and the Social Sciences, University of Washington (2018)
@@ -52,7 +52,7 @@ __2014__ &#124; B.A., Public Policy and Film & Media Studies, College of William
 * Summer Monroe Research Grant, College of William & Mary (2011)
 * James Monroe Scholar, College of William & Mary (2010)
 
-### Publications
+### PUBLICATIONS
 
 *Peer-Reviewed*
 
