@@ -20,10 +20,6 @@ Elizabeth Pelletier. “Race, Ethnicity, and Representative Bureaucracy in Polic
 
 Elizabeth Pelletier. “Neighborhood Characteristics and Police Use of Force in Seattle.” 
 
-### ONGOING PROJECTS
-
-
-
 ### PUBLISHED WORK
 
 *Peer-Reviewed*
