@@ -8,23 +8,29 @@ author_profile: true
 
 {% include base_path %}
 
-### WORKS IN PROGRESS
+### WORKING PAPERS
 
-[*Under review*] Mark Long, Elizabeth Pelletier, and Jennifer Romich. “Constructing Monthly Quasi-Residential Locations of Adults Using Merged State Administrative Data.”
+*(Revise and resubmit)* __Elizabeth Pelletier__ and Jennifer Romich. “Supplementing State Unemployment Insurance Records with Demographic Data.” 
 
-Scott W. Allard, Elizabeth Pelletier, and Taryn Morrissey. “Kids and Community: Understanding the Spatial Contours of Social Assistance for Young Children.”
+*(Under review)* __Elizabeth Pelletier__, Scott W. Allard, Julia Karon, and Taryn Morrissey. “The Spatial Inequality of Local Early Care and Education Provision.”
 
-Scott W. Allard and Elizabeth Pelletier. “Spatial Patterns of Work, Poverty, & Safety Net Provision in the U.S.”
+__Elizabeth Pelletier__. “Differences in state paid family leave policy designs produce large disparities in eligibility.”
 
-Elizabeth Pelletier. “Race, Ethnicity, and Representative Bureaucracy in Police-Citizen Interactions: Evidence from New Orleans.”
+__Elizabeth Pelletier__, Heather D. Hill, and Jennifer Romich. “Parental Employment Instability Around the Birth of a Child: Prevalence and Disparities in Washington State.”
 
-Elizabeth Pelletier. “Neighborhood Characteristics and Police Use of Force in Seattle.” 
+Hilary Wething and __Elizabeth Pelletier__. “Dynamic Earnings, Stable Benefits? An Examination of How Social Programs Respond to Household Earnings Volatility.”
+
+__Elizabeth Pelletier__. “Neighborhood Racial Composition and Police Use of Force in Seattle.” 
+
 
 ### PUBLISHED WORK
 
 *Peer-Reviewed*
 
-Taryn Morrissey, Scott W. Allard, and __Elizabeth Pelletier__. Forthcoming. “Access to Early Care and Education in Rural Communities: Implications for Children’s School Readiness.” RSF: The Russell Sage Foundation Journal of the Social Sciences. 
+Scott W. Allard and __Elizabeth Pelletier__. 2023. “Volatility and Change in Suburban Nonprofit Safety Nets.” RSF: The Russell Sage Foundation Journal of the Social Sciences 9 (2) 134-160.
+
+Mark Long, __Elizabeth Pelletier__, and Jennifer Romich. 2022. “Constructing Monthly Quasi-Residential Locations of Adults Using Merged State Administrative Data.” Population Studies 76(2). 
+Morrisey, Taryn, Scott W. Allard, and Elizabeth Pelletier. 2022. “Access to Early Care and Education in Rural Communities: Implications for Children’s School Readiness.” RSF: The Russell Sage Foundation Journal of the Social Sciences 8(3). 
 
 Scott W. Allard and __Elizabeth Pelletier__. 2021. [Spatial Patterns of Poverty, Hardship, & Nonprofit Safety Net Provision in the U.S.](https://ipss.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=254&item_no=1&page_id=13&block_id=21) Research on Social Security 6(2). 
 
@@ -59,5 +65,6 @@ Samantha Harvell, Jeremy Welsh-Loveman, and Hanna Love, with Julia Durnan, Josh 
 Ryan King, Bryce Peterson, Brian Elderbroom, and Elizabeth Pelletier. 2015. [Reducing Mass Incarceration Requires Far-Reaching Reforms.](http://webapp.urban.org/reducing-mass-incarceration/) Article and interactive data tool. Washington, D.C.: Urban Institute. 
 
 Samuel Bieler, Elizabeth Pelletier, and Serena Lei. 2015. Washington, D.C.: Our Changing City: Public Safety. Web feature. Washington, D.C.: Urban Institute.
+
 Meredith Dank, Lilly Yu, Jennifer Yahner, Elizabeth Pelletier, Mitchyll Mora, and Brendan Conner. 2015. [Locked In: Interactions with the Criminal Justice and Child Welfare Systems for LGBTQ Youth, YMSM, and YWSW Who Engage in Survival Sex.](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/2000424-Locked-In-Interactions-with-the-Criminal-Justice-and-Child-Welfare-Systems-for-LGBTQ-Youth-YMSM-and-YWSW-Who-Engage-in-Survival-Sex.pdf) Washington, D.C.: Urban Institute. 
 
