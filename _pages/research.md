@@ -31,7 +31,7 @@ Scott W. Allard and __Elizabeth Pelletier__. 2023. [Volatility and Change in Sub
 
 Mark Long, __Elizabeth Pelletier__, and Jennifer Romich. 2022. [Constructing Monthly Quasi-Residential Locations of Adults Using Merged State Administrative Data.](https://doi.org/10.1080/00324728.2022.2085776) Population Studies 76(2). 
 
-Morrisey, Taryn, Scott W. Allard, and Elizabeth Pelletier. 2022. [Access to Early Care and Education in Rural Communities: Implications for Children’s School Readiness.](https://www.rsfjournal.org/content/8/3/100) RSF: The Russell Sage Foundation Journal of the Social Sciences 8(3). 
+Taryn W. Morrissey, Scott W. Allard, and __Elizabeth Pelletier__. 2022. [Access to Early Care and Education in Rural Communities: Implications for Children’s School Readiness.](https://www.rsfjournal.org/content/8/3/100) RSF: The Russell Sage Foundation Journal of the Social Sciences 8(3). 
 
 Scott W. Allard and __Elizabeth Pelletier__. 2021. [Spatial Patterns of Poverty, Hardship, & Nonprofit Safety Net Provision in the U.S.](https://ipss.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=254&item_no=1&page_id=13&block_id=21) Research on Social Security 6(2). 
 
