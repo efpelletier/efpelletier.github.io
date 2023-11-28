@@ -8,7 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-### WORKING PAPERS
+### DISSERTATION PROJECT
+
+### OTHER PROJECTS
 
 *(Revise and resubmit)* __Elizabeth Pelletier__ and Jennifer Romich. “Supplementing State Unemployment Insurance Records with Demographic Data.” 
 
